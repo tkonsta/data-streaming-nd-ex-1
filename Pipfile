@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 confluent-kafka = "*"
 faker = "*"
+fastavro = "*"
 
 [dev-packages]
 
