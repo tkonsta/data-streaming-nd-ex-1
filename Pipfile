@@ -4,11 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+avro = "*"
 confluent-kafka = "*"
 faker = "*"
 fastavro = "*"
+faust = "*"
 requests = "*"
-avro = "*"
 
 [dev-packages]
 
